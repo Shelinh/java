@@ -1,0 +1,13 @@
+
+# Compilação Java
+*.class
+
+# Logs
+*.log
+
+# Diretórios do VSCode
+.vscode/
+
+# Arquivos temporários
+*.tmp
+
