@@ -37,6 +37,7 @@ javac src/br/com/codeplus/*.java
 ```
 java -cp src br.com.codeplus.AppComputador  
 java -cp out br.com.codeplus.AppComputador
+java -cp out br.com.codeplus.AppComputador
 
 ```
 
