@@ -1,0 +1,15 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Launch AppComputador",
+            "request": "launch",
+            "mainClass": "br.com.codeplus.AppComputador",
+            "projectName": "java-computador-vscode-v2"
+        }
+    ]
+}
