@@ -11,3 +11,6 @@
 # Arquivos temporários
 *.tmp
 
+# Ignorar arquivos compilados
+out/
+*.class
